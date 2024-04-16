@@ -2,6 +2,6 @@
 
 export default function page() {
   return (
-    <div className=""></div>
+    <div className="">Page</div>
   )
 }
